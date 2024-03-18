@@ -1,0 +1,24 @@
+p {
+  background-color:#FFCCCB;
+  font-family: verdana;
+}
+
+div {
+  font-family: dejavu sans;
+}
+
+.number2 {
+  color: blue;
+  font-size: 36px;
+}
+
+.number3 {
+  font-size: 24px;
+}
+
+.number4 {
+  background-color: #90EE90;
+  font-size: 24px;
+  font-weight: bold;
+  
+}
